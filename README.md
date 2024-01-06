@@ -2,7 +2,7 @@
 
 <img width="1000" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="./src/assets/Ss/ss1.png">
 
-## [[https://typoblitz.netlify.app/]
+## [https://typoblitz.netlify.app/]
 An elegant typing test tool.
 
 > Typing rule and interactions was inspired by the famous [monkeytype.com](https://monkeytype.com/);
@@ -10,15 +10,9 @@ An elegant typing test tool.
 > The app was created purely in react.
 
 
-<!-- ## Feature Requests / Issues / Bug Reports
-
-[![GitHub issues](https://img.shields.io/github/issues/gamer-ai/eletype-frontend)](https://github.com/gamer-ai/eletype-frontend/issues)
-
-https://github.com/gamer-ai/eletype-frontend/issues -->
-
 ## Linkedin:
 
-![Linkedin](https://www.linkedin.com/in/arnav-singha/)
+![https://www.linkedin.com/in/arnav-singha/](https://www.linkedin.com/in/arnav-singha/)
 
 
 ## Currernt Features:
