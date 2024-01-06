@@ -16,7 +16,7 @@ An elegant typing test tool.
 
 https://github.com/gamer-ai/eletype-frontend/issues -->
 
-## Community Channel:
+## Linkedin:
 
 ![Linkedin](https://img.shields.io/discord/993567075589181621?style=for-the-badge)
 
@@ -28,11 +28,11 @@ To join the community, please go to the website and hit "discord" icon.
 
   - words mode
     - Eng Hard: Random blogs Words data source
-    - Eng Normal: Top 1000 most frequent used English words
+    - Eng Normal: Top 1000 most frequently used English words
     - support four tests duration 90s, 60s, 30s, 15s
   - Sentence mode
     - ENG: Random English short sentences
-    - Support three sentences count setting: 5, 10, 15
+    - Support three sentence count setting: 5, 10, 15
   - Stats:
     - WPM
     - KPM
@@ -40,7 +40,7 @@ To join the community, please go to the website and hit "discord" icon.
     - Error analysis (correct/error/missing/extra chars count)
   - Pacing Style (word pulse/ character caret):
     - Pulse mode: the active word will have an underline pulse, which helps improve the speed typing habit.
-    - Caret mode: a pacing caret, advancing character by character, which aligns normal typing habit.
+    - Caret mode: a pacing caret, advancing character by character, which aligns with normal typing habits.
 
 #### 2. Words Card (for English learners)
 
@@ -49,7 +49,7 @@ To join the community, please go to the website and hit "discord" icon.
     - TOEFL
     - CET6
     - CET4
-  - Mutli Chapters Selection
+  - Multi Chapters Selection
   - Words Card Navigation UI
   - Recite Mode (word visibility off while phrase shown)
   
@@ -59,11 +59,11 @@ To join the community, please go to the website and hit "discord" icon.
 
 #### 4. QWERTY Keyboard touch-typing trainer 
 
- - A QWERTY keyboard layout UI populating random key for touch typing with stats
+ - A QWERTY keyboard layout UI populating random keys for touch typing with stats
 
 #### 5. Spotify player
 
- - A spotify player 
+ - A Spotify player 
  
 #### 6. Themes Collection
 
