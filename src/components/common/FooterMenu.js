@@ -196,7 +196,7 @@ const FooterMenu = ({
                     </Link>
                     <Link
                       margin="inherit"
-                      href="https://github.com/gamer-ai/eletype-frontend/"
+                      href="https://github.com/ArnavSingha/TypoBlitz"
                     >
                       {GITHUB_REPO_LINK}
                     </Link>
@@ -205,7 +205,7 @@ const FooterMenu = ({
               placement="top-start"
             >
               <IconButton
-                href="https://github.com/gamer-ai/eletype-frontend/"
+                href="https://github.com/ArnavSingha/TypoBlitz"
                 color="inherit"
               >
                 <GitHubIcon></GitHubIcon>
@@ -267,7 +267,7 @@ const FooterMenu = ({
         {isBottomLogoEnabled && (
           <Box display="block" flexDirection="row" className="bottom-info">
             <IconButton
-              href="https://github.com/gamer-ai/eletype-frontend/"
+              href="https://github.com/ArnavSingha/TypoBlitz"
               color="inherit"
             >
               <span>
