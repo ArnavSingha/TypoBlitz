@@ -2,7 +2,7 @@
 
 <img width="1000" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="./src/assets/Ss/ss1.png">
 
-## [[www.eletypes.com]
+## [[https://typoblitz.netlify.app/]
 An elegant typing test tool.
 
 > Typing rule and interactions was inspired by the famous [monkeytype.com](https://monkeytype.com/);
