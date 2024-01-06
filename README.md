@@ -12,7 +12,7 @@ An elegant typing test tool.
 
 ## Linkedin:
 
-![https://www.linkedin.com/in/arnav-singha/](https://www.linkedin.com/in/arnav-singha/)
+![https://www.linkedin.com/in/arnav-singha/]
 
 
 ## Currernt Features:
