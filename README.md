@@ -1,9 +1,8 @@
-# Ele types
+# TypoBlitz
 
 <img width="1000" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="./src/assets/Ss/ss1.png">
 
-## [www.eletypes.com](https://www.eletypes.com) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/gamer-ai/eletype-frontend?include_prereleases) ![GitHub stars](https://img.shields.io/github/stars/gamer-ai/eletype-frontend?style=social) ![GitHub forks](https://img.shields.io/github/forks/gamer-ai/eletype-frontend?style=social)
-
+## [[www.eletypes.com]
 An elegant typing test tool.
 
 > Typing rule and interactions was inspired by the famous [monkeytype.com](https://monkeytype.com/);
