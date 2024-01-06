@@ -18,9 +18,8 @@ https://github.com/gamer-ai/eletype-frontend/issues -->
 
 ## Linkedin:
 
-![Linkedin](https://img.shields.io/discord/993567075589181621?style=for-the-badge)
+![Linkedin](https://www.linkedin.com/in/arnav-singha/)
 
-To join the community, please go to the website and hit "discord" icon.
 
 ## Currernt Features:
 
